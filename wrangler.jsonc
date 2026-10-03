@@ -8,7 +8,7 @@
     {
       "binding": "DB",
       "database_name": "tripjiwon-db",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "database_id": "08e53d32-9c81-41ce-8161-3ce282d516c7",
       "migrations_dir": "migrations"
     }
   ],
