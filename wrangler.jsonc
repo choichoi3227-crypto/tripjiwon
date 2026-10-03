@@ -16,7 +16,8 @@
     // 관리자 주소. 꼭 추측하기 어려운 값으로 바꾸세요. 예: "/manage-k3x9"
     "ADMIN_PATH": "/admin",
     // 정식 도메인 (끝에 / 없이). 예: "https://xn--hq1b09k.com" 또는 "https://트립지원.com" 의 퓨니코드 주소
-    "SITE_URL": ""
+    "SITE_URL": "
+trip.jiwunin.co.kr"
   }
   // 커스텀 도메인은 대시보드(Workers > Settings > Domains)에서 연결하거나 아래처럼 추가하세요.
   // "routes": [{ "pattern": "example.com", "custom_domain": true }]
