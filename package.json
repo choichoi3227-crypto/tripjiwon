@@ -1,0 +1,16 @@
+{
+  "name": "tripjiwon",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "트립지원닷컴 - 트립닷컴 제휴 쿠폰 사이트 (Cloudflare Workers + D1)",
+  "scripts": {
+    "dev": "wrangler dev",
+    "db:local": "wrangler d1 migrations apply DB --local",
+    "db:remote": "wrangler d1 migrations apply DB --remote",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}

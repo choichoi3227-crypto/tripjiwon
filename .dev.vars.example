@@ -1,0 +1,4 @@
+# 로컬 개발용. 복사해서 .dev.vars 로 만들어 사용 (깃허브에 올리지 마세요)
+ADMIN_USER=admin
+ADMIN_PASSWORD=change-this-long-password
+SESSION_SECRET=change-this-to-a-random-64-char-string
